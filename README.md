@@ -50,3 +50,5 @@ Bank System Menu:
 8. Check bank total transaction fee amount
 9. Check bank total transfer amount
 10. Exit
+
+Enter your choice:
